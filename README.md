@@ -26,23 +26,23 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Average Net Salary Analysis
 
-![Average Net Salary](salary-analysis.png)
+![Average Net Salary](Analiza salariu mediu.png)
 
 ## Inflation Analysis
 
-![Inflation](Inflation.png)
+![Inflation](Analiza ratei inflatiei.png)
 
 ## Unemployment Analysis
 
-![Unemployment-analysis](unemployment-analysis.png)
+![Unemployment-analysis](Analiza ratei somajului.png)
 
 ## Conclusions
 
-![Conclusions](Conclusions.png)
+![Conclusions](Concluzii.png)
 
 ## Methodology
 
-![Methodology](methodology.png)
+![Methodology](Metodologie.png)
 
 ## Excel Tools Used
 
@@ -50,7 +50,7 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Tools Used
 
-![Tools Used](tools-used.png)
+![Tools Used](Instrumente folosite.png)
 ### Methodology
 
 ![Methodology](Metodologie.png)
