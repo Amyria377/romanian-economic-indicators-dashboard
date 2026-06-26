@@ -51,10 +51,5 @@ The project also includes methodology, statistical conclusions and interactive f
 ## Tools Used
 
 ![Tools Used](Instrumente1.png)
-### Methodology
 
 ![Methodology](Metodologie.png)
-
-### Excel Tools Used
-
-![Excel Tools](Instrumente folosite.png)
