@@ -46,11 +46,11 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Excel Tools Used
 
-![Excel Tools](methodology-and-tools.png)
+![Excel Tools](Instrumente.png)
 
 ## Tools Used
 
-![Tools Used](Instrumente folosite.png)
+![Tools Used](Instrumente1.png)
 ### Methodology
 
 ![Methodology](Metodologie.png)
