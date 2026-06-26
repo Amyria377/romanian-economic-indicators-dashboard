@@ -22,7 +22,7 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Average Net Salary Analysis
 
