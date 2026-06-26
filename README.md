@@ -30,11 +30,11 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Inflation Analysis
 
-![Inflation](Analiza ratei inflatiei.png)
+![Inflation](Inflatie.png)
 
 ## Unemployment Analysis
 
-![Unemployment-analysis](Analiza ratei somajului.png)
+![Unemployment-analysis](Somaj.png)
 
 ## Conclusions
 
