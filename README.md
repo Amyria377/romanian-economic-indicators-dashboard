@@ -34,7 +34,7 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Unemployment Analysis
 
-![Unemployment](unemployment-analysis.png)
+![Unemployment-analysis](unemployment-analysis.png)
 
 ## Conclusions
 
