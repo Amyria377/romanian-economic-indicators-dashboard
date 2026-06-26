@@ -38,7 +38,7 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Conclusions
 
-![Conclusions](conclusions.png)
+![Conclusions](Conclusions.png)
 
 ## Methodology
 
