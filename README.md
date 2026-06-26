@@ -20,27 +20,37 @@ Economic indicators analyzed:
 
 The project also includes methodology, statistical conclusions and interactive filtering, making it suitable for business reporting and exploratory data analysis.
 
-## Preview
+## Dashboard
 
-### Dashboard
+![Dashboard](dashboard.png)
 
-![Dashboard](Dashboard.png)
 ## Average Net Salary Analysis
 
-![Average Net Salary](Analiza salariu mediu.png)
+![Average Net Salary](salary-analysis.png)
 
 ## Inflation Analysis
 
-![Inflation](Analiza ratei inflatiei.png)
+![Inflation](inflation-analysis.png)
 
 ## Unemployment Analysis
 
-![Unemployment](Analiza ratei somajului.png)
+![Unemployment](unemployment-analysis.png)
 
-### Conclusions
+## Conclusions
 
-![Conclusions](Concluzii.png)
+![Conclusions](conclusions.png)
 
+## Methodology
+
+![Methodology](methodology.png)
+
+## Excel Tools Used
+
+![Excel Tools](methodology-and-tools.png)
+
+## Tools Used
+
+![Tools Used](tools-used.png)
 ### Methodology
 
 ![Methodology](Metodologie.png)
