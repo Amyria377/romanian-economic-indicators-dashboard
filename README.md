@@ -25,16 +25,15 @@ The project also includes methodology, statistical conclusions and interactive f
 ### Dashboard
 
 ![Dashboard](Dashboard.png)
-
-### Average Net Salary Analysis
+## Average Net Salary Analysis
 
 ![Average Net Salary](Analiza salariu mediu.png)
 
-### Inflation Analysis
+## Inflation Analysis
 
 ![Inflation](Analiza ratei inflatiei.png)
 
-### Unemployment Analysis
+## Unemployment Analysis
 
 ![Unemployment](Analiza ratei somajului.png)
 
