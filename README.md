@@ -30,7 +30,7 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Inflation Analysis
 
-![Inflation](inflation-analysis.png)
+![Inflation](Inflation.png)
 
 ## Unemployment Analysis
 
