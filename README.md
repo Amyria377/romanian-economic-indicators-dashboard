@@ -26,7 +26,7 @@ The project also includes methodology, statistical conclusions and interactive f
 
 ## Average Net Salary Analysis
 
-![Average Net Salary](Analiza salariu mediu.png)
+![Average Net Salary](Analizasalariumediu.png)
 
 ## Inflation Analysis
 
